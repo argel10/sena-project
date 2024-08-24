@@ -1,0 +1,45 @@
+.contenedor-login {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .contenedor-form {
+    background-color: #f2f2f2;
+    padding: 2rem;
+    border-radius: 0.4rem;
+    color: black;
+  }
+  
+  .contenedor-form form {
+  }
+  
+  .contenedor-form h1 {
+    text-align: center;
+  }
+  
+  .contenedor-inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .contenedor-inputs input {
+    padding: 0.6rem;
+    border-radius: 0.4rem;
+    outline: none;
+    border: none;
+    width: 20rem;
+    background-color: #fff;
+    color: black;
+  }
+  
+  .contenedor-inputs button {
+    padding: 0.6rem;
+    border-radius: 0.4rem;
+    border: none;
+    cursor: pointer;
+    background-color: #000;
+  }
+  
